@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋,I'm Chelliboyina Venu Gopal!  
 
-<!--
-**venu019/venu019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | DevOps Enthusiast  
+I’m a passionate Full-Stack Developer focused on building scalable web applications and automating software deployment. My expertise lies in React, Node.js, MongoDB, Docker, and CI/CD pipelines.  
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On  
+- Developing MERN Stack applications with optimized performance.  
+- Automating deployment workflows using Docker, Kubernetes, and GitHub Actions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About  
+- Full-Stack Development (React, Node.js, Express, MongoDB)  
+
+### 📫 Connect With Me  
+🔗 GitHub: github.com/venu019  
+💼 LinkedIn:  www.linkedin.com/in/chelliboyina-venu-gopal-b90420233
+📧 Email: chelliboyinavenugopal@gmail.com  
