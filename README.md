@@ -11,6 +11,6 @@ I’m a passionate Full-Stack Developer focused on building scalable web applica
 - Full-Stack Development (React, Node.js, Express, MongoDB)  
 
 ### 📫 Connect With Me  
-GitHub: github.com/venu019  
+GitHub: www.github.com/venu019  
 LinkedIn:  www.linkedin.com/in/chelliboyina-venu-gopal-b90420233
 Email: venugopalchelliboyina@gmail.com  
